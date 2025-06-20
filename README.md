@@ -72,9 +72,9 @@ Here’s how your tools are stored and imported/exported:
 
 ## 📸 Screenshots
 
-![Home](https://drive.google.com/file/d/1zflAbhxZvsJtBGvdX6s-nlStzU6HtoDW/view?usp=sharing | width=500)
+![Home](https://imgur.com/2gRfPXt | width=500)
 
-![Editor](https://drive.google.com/file/d/1sir3HLwA4Y152FFFaEqLX9Fjm4MjQyrW/view?usp=sharing | width=500)
+![Editor](https://imgur.com/1kmL0Su | width=500)
 
 ---
 
