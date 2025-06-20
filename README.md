@@ -70,14 +70,6 @@ Here’s how your tools are stored and imported/exported:
 
 ---
 
-## 📸 Screenshots
-
-![Home](https://imgur.com/2gRfPXt)
-
-![Editor](https://imgur.com/1kmL0Su)
-
----
-
 ## 🛠 Tech Stack
 
 * HTML
