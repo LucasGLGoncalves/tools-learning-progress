@@ -72,7 +72,9 @@ Here’s how your tools are stored and imported/exported:
 
 ## 📸 Screenshots
 
-> *Add screenshots of the dashboard and editor interface here if you like.*
+[Home](https://drive.google.com/file/d/1zflAbhxZvsJtBGvdX6s-nlStzU6HtoDW/view?usp=sharing)
+
+[Editor](https://drive.google.com/file/d/1sir3HLwA4Y152FFFaEqLX9Fjm4MjQyrW/view?usp=sharing)
 
 ---
 
@@ -82,18 +84,3 @@ Here’s how your tools are stored and imported/exported:
 * TailwindCSS (via CDN)
 * JavaScript (vanilla)
 * LocalStorage API
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-Made with 💙 by \[Your Name]
-
-```
-
-Se quiser, posso gerar as capturas de tela, README com badge, ou até criar um botão “Deploy on GitHub Pages”. Deseja mais alguma dessas melhorias?
-```
