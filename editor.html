@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Editar Ferramentas</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://kit.fontawesome.com/344c27b19c.js" crossorigin="anonymous"></script>
+</head>
+<body class="bg-white min-h-screen p-6">
+  <div class="flex justify-between items-center mb-4">
+    <h2 class="text-2xl font-bold text-gray-800">🛠️ Gerenciar Ferramentas</h2>
+    <a href="index.html" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"><i class="fa-solid fa-arrow-left"></i> Voltar</a>
+  </div>
+  <div class="flex gap-2 mb-4">
+    <button onclick="openModal()" class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600"><i class="fa-solid fa-plus"></i> Adicionar Ferramenta</button>
+    <input type="file" id="importJson" accept="application/json" class="hidden" onchange="importTools(event)"/>
+    <button onclick="document.getElementById('importJson').click()" class="bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-600"><i class="fa-solid fa-file-import"></i> Importar JSON</button>
+    <button onclick="exportTools()" class="bg-purple-500 text-white px-4 py-2 rounded hover:bg-purple-600"><i class="fa-solid fa-file-export"></i> Exportar JSON</button>
+  </div>
+
+  <input id="searchTools" type="text" placeholder="🔍 Buscar por nome ou categoria..." class="w-full mb-4 p-2 border border-gray-300 rounded" />
+
+  <table class="w-full table-auto border">
+    <thead>
+      <tr class="bg-gray-200 text-left">
+        <th class="p-2">Logo</th>
+        <th class="p-2">Ferramenta</th>
+        <th class="p-2">Status</th>
+        <th class="p-2">Categoria</th>
+        <th class="p-2">Ações</th>
+      </tr>
+    </thead>
+    <tbody id="toolTable"></tbody>
+  </table>
+
+  <!-- Modal -->
+  <div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
+    <div class="bg-white p-6 rounded shadow-md w-full max-w-md relative">
+      <h3 class="text-xl font-semibold mb-4">Nova Ferramenta</h3>
+      <input id="toolName" type="text" placeholder="Nome" class="w-full mb-2 p-2 border rounded"/>
+      <input id="toolLogo" type="text" placeholder="Link ou SVG da logo" class="w-full mb-2 p-2 border rounded"/>
+      <select id="toolStatus" class="w-full mb-2 p-2 border rounded">
+        <option value="Concluido">Concluido</option>
+        <option value="Em Progresso">Em Progresso</option>
+        <option value="Pendente">Pendente</option>
+      </select>
+      <input id="toolCategory" type="text" placeholder="Categoria" class="w-full mb-4 p-2 border rounded"/>
+      <div class="flex justify-end gap-2">
+        <button onclick="closeModal()" class="bg-gray-300 text-gray-700 px-4 py-2 rounded hover:bg-gray-400"><i class="fa-solid fa-xmark"></i> Cancelar</button>
+        <button onclick="saveTool()" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"><i class="fa-solid fa-floppy-disk"></i> Salvar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="editor.js"></script>
+</body>
+</html>
