@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Git",
+    "logo": "https://www.svgrepo.com/show/303548/git-icon-logo.svg",
+    "status": "Concluido",
+    "category": "Controle de Versão e Colaboração"
+  },
+  {
+    "name": "Linux",
+    "logo": "https://www.svgrepo.com/show/448236/linux.svg",
+    "status": "Concluido",
+    "category": "Sistemas Operacionais e Automação"
+  },
+  {
+    "name": "Docker / Compose",
+    "logo": "https://cdn.worldvectorlogo.com/logos/docker.svg",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Kubernetes (CKAD)",
+    "logo": "https://www.svgrepo.com/show/448233/kubernetes.svg",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Kubernetes (CKA)",
+    "logo": "https://www.svgrepo.com/show/341977/kubernetes.svg",
+    "status": "Em Progresso",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Github Actions",
+    "logo": "<svg fill=\"#0079fa\" width=\"99px\" height=\"99px\" viewBox=\"0 0 24 24\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" stroke=\"#0079fa\" stroke-width=\"0.00024000000000000003\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"><title>GitHub Actions icon</title><path d=\"M10.984 13.836a.5.5 0 0 1-.353-.146l-.745-.743a.5.5 0 1 1 .706-.708l.392.391 1.181-1.18a.5.5 0 0 1 .708.707l-1.535 1.533a.504.504 0 0 1-.354.146zm9.353-.147l1.534-1.532a.5.5 0 0 0-.707-.707l-1.181 1.18-.392-.391a.5.5 0 1 0-.706.708l.746.743a.497.497 0 0 0 .706-.001zM4.527 7.452l2.557-1.585A1 1 0 0 0 7.09 4.17L4.533 2.56A1 1 0 0 0 3 3.406v3.196a1.001 1.001 0 0 0 1.527.85zm2.03-2.436L4 6.602V3.406l2.557 1.61zM24 12.5c0 1.93-1.57 3.5-3.5 3.5a3.503 3.503 0 0 1-3.46-3h-2.08a3.503 3.503 0 0 1-3.46 3 3.502 3.502 0 0 1-3.46-3h-.558c-.972 0-1.85-.399-2.482-1.042V17c0 1.654 1.346 3 3 3h.04c.244-1.693 1.7-3 3.46-3 1.93 0 3.5 1.57 3.5 3.5S13.43 24 11.5 24a3.502 3.502 0 0 1-3.46-3H8c-2.206 0-4-1.794-4-4V9.899A5.008 5.008 0 0 1 0 5c0-2.757 2.243-5 5-5s5 2.243 5 5a5.005 5.005 0 0 1-4.952 4.998A2.482 2.482 0 0 0 7.482 12h.558c.244-1.693 1.7-3 3.46-3a3.502 3.502 0 0 1 3.46 3h2.08a3.503 3.503 0 0 1 3.46-3c1.93 0 3.5 1.57 3.5 3.5zm-15 8c0 1.378 1.122 2.5 2.5 2.5s2.5-1.122 2.5-2.5-1.122-2.5-2.5-2.5S9 19.122 9 20.5zM5 9c2.206 0 4-1.794 4-4S7.206 1 5 1 1 2.794 1 5s1.794 4 4 4zm9 3.5c0-1.378-1.122-2.5-2.5-2.5S9 11.122 9 12.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5zm9 0c0-1.378-1.122-2.5-2.5-2.5S18 11.122 18 12.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5zm-13 8a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0zm2 0a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0zm12 0c0 1.93-1.57 3.5-3.5 3.5a3.503 3.503 0 0 1-3.46-3.002c-.007.001-.013.005-.021.005l-.506.017h-.017a.5.5 0 0 1-.016-.999l.506-.017c.018-.002.035.006.052.007A3.503 3.503 0 0 1 20.5 17c1.93 0 3.5 1.57 3.5 3.5zm-1 0c0-1.378-1.122-2.5-2.5-2.5S18 19.122 18 20.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5z\"></path></g></svg>",
+    "status": "Concluido",
+    "category": "CI/CD e Automação de Deploy"
+  },
+  {
+    "name": "Bash / Shell Script",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/960px-Bash_Logo_black_and_white_icon_only.svg.png",
+    "status": "Concluido",
+    "category": "Sistemas Operacionais e Automação"
+  },
+  {
+    "name": "Docker Swarm",
+    "logo": "https://raw.githubusercontent.com/collabnix/dockerlabs/master/intermediate/swarm/Dockerswarm.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "K3S",
+    "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 128\"><path d=\"M114.434 11.875H13.547C6.074 11.898.023 17.949 0 25.422v77.719c.023 7.472 6.074 13.523 13.547 13.546h100.887c7.472-.023 13.523-6.074 13.546-13.546V25.42c-.023-7.472-6.074-13.523-13.546-13.546zM54.078 88.094l-24.621 14.308a6.592 6.592 0 01-9.008-2.386 6.59 6.59 0 012.387-9.008l24.621-14.309a6.587 6.587 0 019.012 2.383 6.593 6.593 0 01-2.39 9.012zm9.688-21.801h-.032a6.59 6.59 0 01-6.558-6.617l.125-28.364a6.587 6.587 0 016.586-6.562h.031a6.59 6.59 0 016.559 6.617l-.125 28.367a6.588 6.588 0 01-6.586 6.559zm43.562 33.703a6.585 6.585 0 01-9 2.41L73.672 88.172a6.589 6.589 0 116.59-11.41l24.656 14.234a6.586 6.586 0 012.41 9zm0 0\" fill=\"#ffc519\"/></svg>",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "minikube",
+    "logo": "https://avatars.githubusercontent.com/u/20374350?v=4",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Longhorn",
+    "logo": "https://longhorn.io/img/logos/longhorn-icon-color.png",
+    "status": "Pendente",
+    "category": "Volumes e Armazenamento"
+  },
+  {
+    "name": "Rancher",
+    "logo": "https://www.svgrepo.com/show/354256/rancher-icon.svg",
+    "status": "Em Progresso",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "Portainer",
+    "logo": "https://icon.icepanel.io/Technology/svg/Portainer.svg",
+    "status": "Concluido",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "Datadog",
+    "logo": "https://www.svgrepo.com/show/448219/datadog.svg",
+    "status": "Em Progresso",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "SonarQube",
+    "logo": "https://cdn.brandfetch.io/sonarsource.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "AWS",
+    "logo": "https://www.svgrepo.com/show/448266/aws.svg",
+    "status": "Concluido",
+    "category": "Cloud Providers"
+  },
+  {
+    "name": "Azure",
+    "logo": "https://www.svgrepo.com/show/373455/azure.svg",
+    "status": "Concluido",
+    "category": "Cloud Providers"
+  },
+  {
+    "name": "Openshift",
+    "logo": "https://www.svgrepo.com/show/354143/openshift.svg",
+    "status": "Pendente",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "Ansible",
+    "logo": "https://www.svgrepo.com/show/349298/ansible.svg",
+    "status": "Concluido",
+    "category": "Sistemas Operacionais e Automação"
+  },
+  {
+    "name": "Terraform",
+    "logo": "https://www.svgrepo.com/show/354447/terraform-icon.svg",
+    "status": "Concluido",
+    "category": "Sistemas Operacionais e Automação"
+  },
+  {
+    "name": "Helm",
+    "logo": "https://www.svgrepo.com/show/448231/helm.svg",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Prometheus",
+    "logo": "https://www.svgrepo.com/show/354219/prometheus.svg",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Grafana",
+    "logo": "https://www.svgrepo.com/show/353829/grafana.svg",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Zabbix",
+    "logo": "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png",
+    "status": "Em Progresso",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Confluence",
+    "logo": "https://cdn.worldvectorlogo.com/logos/confluence-1.svg",
+    "status": "Concluido",
+    "category": "Controle de Versão e Colaboração"
+  },
+  {
+    "name": "Jira",
+    "logo": "https://www.svgrepo.com/show/452241/jira.svg",
+    "status": "Concluido",
+    "category": "Controle de Versão e Colaboração"
+  },
+  {
+    "name": "Azure Devops",
+    "logo": "https://www.svgrepo.com/show/448271/azure-devops.svg",
+    "status": "Concluido",
+    "category": "Controle de Versão e Colaboração"
+  },
+  {
+    "name": "OpenTelemetry",
+    "logo": "https://images.seeklogo.com/logo-png/43/2/opentelemetry-logo-png_seeklogo-430977.png",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Jenkins",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png",
+    "status": "Pendente",
+    "category": "CI/CD e Automação de Deploy"
+  },
+  {
+    "name": "Loki",
+    "logo": "https://files.readme.io/e5e1b43-grafana-loki.png",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Jaeger",
+    "logo": "https://cdn.prod.website-files.com/61e1d8dcf4a5e16aab73f6b4/6436e5b8fe5853f767c5a09a_a8yT7ufF-UQoyPgzgwSWyZXpaIrCaD_HwLL7wqBC3lp_DuVBM_34ZEnzKoGB2uSPI-zo1Hb1yLcN44IV8h7TKQlWBxbktSv3S_5r8eHEwpGeomDGUgJM4CQ0LkkxzwUvkviZS3mB-JAxmGRScBqe65w.png",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "ArgoCD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5e0nHTSWCOVVCjzixLUAuQHevtLNLSEzYg&s",
+    "status": "Em Progresso",
+    "category": "CI/CD e Automação de Deploy"
+  },
+  {
+    "name": "Kubeadm",
+    "logo": "https://raw.githubusercontent.com/kubernetes/kubeadm/master/logos/stacked/color/kubeadm-stacked-color.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Kubespray",
+    "logo": "https://kubespray.io/logo/logo-clear.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Kind",
+    "logo": "https://kind.sigs.k8s.io/logo/logo.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "K3D",
+    "logo": "https://avatars.githubusercontent.com/u/98918160?s=280&v=4",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "RKE",
+    "logo": "https://miro.medium.com/v2/resize:fit:465/0*LSXUBR7GvItBlQDB.png",
+    "status": "Pendente",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "OKE",
+    "logo": "https://miro.medium.com/v2/resize:fit:625/1*2nesJc8VJMs9Q0m3on5q0w.png",
+    "status": "Pendente",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "AKS",
+    "logo": "https://www.densify.com/wp-content/uploads/icon-microsoft-azure-aks.svg",
+    "status": "Concluido",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "EKS",
+    "logo": "https://www.densify.com/wp-content/uploads/icon-aws-amazon-eks.svg",
+    "status": "Concluido",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "GKE",
+    "logo": "https://www.densify.com/wp-content/uploads/icon-google-cloud-gke.svg",
+    "status": "Pendente",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "Microk8s",
+    "logo": "https://i.vimeocdn.com/video/1425374674-7ce8c97537cc9fa7543c8959186d07a193e3256ba8bc2a2c9032f047585aaf83-d?f=webp",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Docker Scout",
+    "logo": "https://gitlab.com/uploads/-/system/project/avatar/57660331/147550186.png",
+    "status": "Concluido",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Trivy",
+    "logo": "https://artifacthub.io/image/23e5c086-737a-4d46-b96a-da28674322a6@3x",
+    "status": "Concluido",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Cosign",
+    "logo": "https://avatars.githubusercontent.com/u/71096353?v=4",
+    "status": "Concluido",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Digital Ocean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DigitalOcean_icon.svg/2048px-DigitalOcean_icon.svg.png",
+    "status": "Concluido",
+    "category": "Cloud Providers"
+  },
+  {
+    "name": "ContainerD",
+    "logo": "https://camo.githubusercontent.com/4d810202ddc3ab52930a6fc93efe7bc294d91af91a4fa5ccde84e4999824e261/68747470733a2f2f636f6e7461696e6572642e696f2f696d672f6c6f676f732f69636f6e2f626c61636b2f636f6e7461696e6572642d69636f6e2d626c61636b2e706e67",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "LXD",
+    "logo": "https://dashboard.snapcraft.io/site_media/appmedia/2024/04/lxd_tag.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "LXC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_Containers_logo.svg/1200px-Linux_Containers_logo.svg.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Weave Net (CNI)",
+    "logo": "https://avatars.githubusercontent.com/u/9976052?v=4",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Flannel (CNI)",
+    "logo": "https://avatars.githubusercontent.com/u/78555908?v=4",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Calico (CNI)",
+    "logo": "https://cdn.prod.website-files.com/62a8969da1ab56329dc8c41e/6458e8de48724f627551477b_image.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "DOKS",
+    "logo": "https://i.imgur.com/wQfltIs.png",
+    "status": "Concluido",
+    "category": "Plataformas de Gerenciamento de Cluster"
+  },
+  {
+    "name": "Fluentbit",
+    "logo": "https://cdn.brandfetch.io/idxVhszl6V/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B",
+    "status": "Em Progresso",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Hadolint",
+    "logo": "https://exiasr.gallerycdn.vsassets.io/extensions/exiasr/hadolint/1.1.2/1659806496035/Microsoft.VisualStudio.Services.Icons.Default",
+    "status": "Concluido",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Istio",
+    "logo": "https://cdn.creazilla.com/icons/3508845/istio-bluelogo-nobackground-unframed-icon-lg.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Traefik",
+    "logo": "https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "NGINX Ingress Controller",
+    "logo": "https://www.pulumi.com/logos/pkg/kubernetes-ingress-nginx.svg",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Emissary",
+    "logo": "https://avatars.githubusercontent.com/u/79531940?s=280&v=4",
+    "status": "Em Progresso",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Google Cloud",
+    "logo": "https://www.red-olive.co.uk/wp-content/uploads/2019/10/google-cloud-1.png",
+    "status": "Pendente",
+    "category": "Cloud Providers"
+  },
+  {
+    "name": "Kubectx & Kubens",
+    "logo": "https://i.imgur.com/Ne0ZMXA.png",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Tetragon",
+    "logo": "https://cdn.sanity.io/images/xinsvxfu/production/da4e94f35e50a426e333a21d305f5a6f7a7f24ae-2000x2000.png",
+    "status": "Concluido",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Cilium",
+    "logo": "https://avatars.githubusercontent.com/u/21054566?s=280&v=4",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Hubble",
+    "logo": "https://miro.medium.com/v2/resize:fit:1050/1*ymoTK0J-mIpOKapdnDmxuw.png",
+    "status": "Concluido",
+    "category": "Monitoramento e Observabilidade"
+  },
+  {
+    "name": "Krew (Plugin Manager)",
+    "logo": "https://artifacthub.io/static/media/krew-plugins.svg",
+    "status": "Concluido",
+    "category": "Containers e Orquestração"
+  },
+  {
+    "name": "Snyk",
+    "logo": "",
+    "status": "Pendente",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "CheckMarx",
+    "logo": "",
+    "status": "Pendente",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "Veracode",
+    "logo": "",
+    "status": "Pendente",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "OpenText",
+    "logo": "",
+    "status": "Pendente",
+    "category": "Compliance e Segurança"
+  },
+  {
+    "name": "BlackDuck",
+    "logo": "",
+    "status": "Pendente",
+    "category": "Compliance e Segurança"
+  }
+]
